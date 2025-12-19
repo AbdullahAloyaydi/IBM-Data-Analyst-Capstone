@@ -32,9 +32,14 @@ This project analyzes real-world **job market data** using APIs and web scraping
 
 ---
 
-## 📄 Final Presentation
-- **DataAnalystPresentation.pdf**  
-  (Submitted as part of the capstone requirements)
+## 📂 Project Deliverables
+
+- 📎 **Final Presentation:**  
+  https://github.com/AbdullahAloyaydi/IBM-Data-Analyst-Capstone/blob/main/DataAnalystPresentation.pdf
+
+- 📁 **IBM Cognos Dashboard PDF:**  
+  https://github.com/AbdullahAloyaydi/IBM-Data-Analyst-Capstone/blob/main/BuildingADashboard/BuildingADashboard.pdf
+
 
 ---
 
