@@ -2,7 +2,7 @@
 
 Final capstone project for the **IBM Data Analyst Professional Certificate (Coursera)**.
 
-This project analyzes real-world **job market data** using APIs and web scraping, then transforms the data into clear insights through analysis and visualization.
+This project analyzes real-world **job market data** using APIs and web scraping, and presents insights through data analysis, visualizations, and dashboards built with **IBM Cognos Analytics**.
 
 ---
 
@@ -11,7 +11,7 @@ This project analyzes real-world **job market data** using APIs and web scraping
 - **DataWrangling** – Cleaning and preparing datasets  
 - **ExploratoryDataAnalysis** – Exploring trends and patterns  
 - **DataVisualization** – Charts and visual insights  
-- **BuildingADashboard** – Dashboard-related work  
+- **BuildingADashboard** – Dashboard creation using IBM Cognos Analytics  
 
 ---
 
@@ -20,13 +20,15 @@ This project analyzes real-world **job market data** using APIs and web scraping
 - Jupyter Notebook
 - Excel
 - APIs & Web Scraping
+- **IBM Cognos Analytics** (Dashboards & visualizations)
 
 ---
 
 ## 📈 Key Insights
 - Job postings by technology (API-based data)
 - Average annual salary by programming language (scraped data)
-- Visualizations sorted in descending order for clarity
+- Interactive dashboards and visualizations created in **IBM Cognos**
+- Visuals sorted in descending order for clarity
 
 ---
 
